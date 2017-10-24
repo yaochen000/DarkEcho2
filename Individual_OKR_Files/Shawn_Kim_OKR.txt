@@ -1,0 +1,28 @@
+<Shawn Kim>OKR.txt
+
+
+Prototype Contribution:
+Basic Prototype Level Design est: 1.5 Hours
+Basic Prototype Lighting: est 1 Hours
+Basic Red Door Asset Used for Prototype est: .25 Hours
+Basic Tutorial Character Controller est: .25 Hours
+Finding Audio Assets: .5 Hours
+
+Design Doc Contribution:
+Conceptual Game Story/some initial information .5 Hours
+Textural Description of Game: 2 Hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
