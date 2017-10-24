@@ -1,1 +1,7 @@
-COMING SOON
+Arbaaz Meghani OKR
+
+Schedule and Deliverables
+	-Make echolocation effect with distance control:	Tue by 5pm (estimate: 6.0hr)
+	-Tie in echolocation effect to player walking:		Tue by 8pm (estimate: 1.0hr)
+	-Add all Formal Elements to design document		Mon by 5pm (estimate: 1.0hr)
+
