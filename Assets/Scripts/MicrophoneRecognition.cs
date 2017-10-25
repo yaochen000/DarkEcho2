@@ -110,7 +110,7 @@ public class MicrophoneRecognition : MonoBehaviour {
     float AMP(int channel)
     {
         //currently need to find the int value to make function work, the value is what it finds amplitude for
-        mic.GetOutputData(mic.clip, channel);
+        /*mic.GetOutputData(mic.clip, channel);
 
         float total = 0;
 
@@ -118,6 +118,8 @@ public class MicrophoneRecognition : MonoBehaviour {
         {
             total += x * x;
         }
-        return Mathf.Sqrt(total / sampleNums);
+        return Mathf.Sqrt(total / sampleNums);*/
+
+		return 0.0f;
     }
 }
